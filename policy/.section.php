@@ -1,0 +1,6 @@
+<?
+$sSectionName = "policy";
+$arDirProperties = Array(
+
+);
+?>
